@@ -1,0 +1,7 @@
+.tabs-continer {
+  margin-left: 10px;
+}
+.tabs > *:nth-child(2) {
+  flex: 1 1 0;
+  
+}

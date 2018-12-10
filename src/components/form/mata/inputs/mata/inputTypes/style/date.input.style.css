@@ -1,0 +1,11 @@
+.DayPickerInput>input {
+      width: 190px;
+      border: solid .4px hsla(0, 0%, 0%, .3);
+      height: 40px;
+      font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue;
+  border:   1px solid hsla(0, 0%, 0%, .2) !important;
+      color: hsla(0, 0%, 0%, .8);
+  
+}

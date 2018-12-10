@@ -1,0 +1,9 @@
+textarea {
+  width: 187px;
+  margin-top: 20px;
+  border-radius: 4px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue;
+  border:   1px solid hsla(0, 0%, 0%, .2) !important;
+}
